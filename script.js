@@ -1,4 +1,3 @@
-// script.js
 
 // Initial Data
 let tableEntries = [
